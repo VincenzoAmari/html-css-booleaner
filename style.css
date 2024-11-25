@@ -10,7 +10,7 @@ main {
 
 .banner { 
     position: relative;
-    background-color: cornflowerblue;
+    background-color: #4EA0FF;
     background-image: url(./img/pattern.png);
     background-size: 500px; 
     height: 125px;
@@ -25,6 +25,7 @@ main {
 
 .title {
     font-weight: 900;
+    margin-top: 20px;
 }
 
 .subtitle  {

@@ -82,10 +82,19 @@ main {
     padding-top: 20px;
 }
 
+.table{
+    margin-bottom: 20px;
+}
+
 .white-text{
     color: aliceblue;
 }
 
-.tablestyle{
+.row1{
+    color: aliceblue;
+    background-color: deepskyblue;
+}
 
+.azurline{
+    background-color: skyblue;
 }

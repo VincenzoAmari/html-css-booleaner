@@ -1,9 +1,17 @@
+main{
+    margin: 0 10%;
+}
+
+
 .banner{ 
     background-color: cornflowerblue;
     background-image: url(./img/pattern.png);
+    background-size: 42.5%;
+    height: 125px;
 }
 
 .logo{
-width: auto;
-
+width: 15%;
+margin-left: 10%;
+margin-top: 60px;
 }

@@ -84,17 +84,23 @@ main {
 
 .table{
     margin-bottom: 20px;
+    border-collapse: collapse;
+    text-align: left;
 }
 
 .white-text{
     color: aliceblue;
 }
 
-.row1{
+.thead{
     color: aliceblue;
     background-color: deepskyblue;
 }
 
 .azurline{
     background-color: skyblue;
+}
+
+.row1{
+    width: 25%;
 }
